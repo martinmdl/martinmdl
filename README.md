@@ -1,14 +1,14 @@
 ## About me
 
-[![Linkedin Badge](https://img.shields.io/badge/-martinmdl-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinmdl/) [![Github Badge](https://img.shields.io/badge/-martinmdl-000000?style=flat&labelColor=000000&logo=github&logoColor=white)](https://github.com/martinmdl) [![Mail Badge](https://img.shields.io/badge/-martinmdl42@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](martinmdl42@gmail.com)
+- Birthdate **01/10/2000**
+- I'm studying computing at [**UNSAM**](https://www.unsam.edu.ar/escuelas/ciencia/107/ciencia/programacion-informatica)
+- Currently learning **React Native**
 
-I am a computing studen from Argentina
+## Contact Me
 
-- I’m currently learning **React Native**
+[![Linkedin Badge](https://img.shields.io/badge/-martinmdl-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinmdl/) [![Github Badge](https://img.shields.io/badge/-martinmdl-000000?style=flat&labelColor=000000&logo=github&logoColor=white)](https://github.com/martinmdl) [![Mail Badge](https://img.shields.io/badge/-martinmdl42@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:martinmdl42@gmail.com)
 
-
-
-## Stats
+## Profile Stats
 ![Stats Light](https://github-readme-stats.vercel.app/api?username=martinmdl&show_icons=true&theme=default)
 
 ## Languages and Tools
