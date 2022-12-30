@@ -1,6 +1,7 @@
 ## About me
 
 - Birthdate **01/10/2000**
+- [UTN Frontend Certificate](https://drive.google.com/file/d/10TnBJhPiLM__o8PRDoR2A4iDi1zJxolu/view?usp=sharing)
 - I'm studying computing at [**UNSAM**](https://www.unsam.edu.ar/escuelas/ciencia/107/ciencia/programacion-informatica)
 - Currently learning **React Native**
 
