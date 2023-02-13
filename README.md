@@ -12,7 +12,7 @@
 
 ## Profile Stats
 
-![Stats Light](https://github-readme-stats-five-blush-46.vercel.app/api?username=martinmdl&show_icons=true&theme=default) <img height="195" src="https://github-readme-stats-five-blush-46.vercel.app/api/top-langs?username=martinmdl" />
+<img height="195" src="https://github-readme-stats-five-blush-46.vercel.app/api?username=martinmdl&show_icons=true&theme=default" /> <img height="195" src="https://github-readme-stats-five-blush-46.vercel.app/api/top-langs?username=martinmdl" />
 
 ## Languages and Tools
 <img
