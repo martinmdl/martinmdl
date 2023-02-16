@@ -2,7 +2,7 @@
 
 - Birthdate **01/10/2000**
 - [**My certificates**](https://drive.google.com/drive/folders/1c_suHUzc1Wu6_S9vvvOVczFLUbtqQd78?usp=sharing)
-- I'm studying computing at [**UNSAM**](https://www.unsam.edu.ar/escuelas/ciencia/107/ciencia/programacion-informatica)
+- I'm studying Programming at [**UNSAM**](https://www.unsam.edu.ar/escuelas/ciencia/107/ciencia/programacion-informatica)
 - Check out my [**Portfolio**](https://main-portfolio-psi.vercel.app/)
 - Currently mastering **NodeJS**
 
